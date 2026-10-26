@@ -1,0 +1,15 @@
+# Pixel Ocean · MotionGit .motion
+
+Template and full package: https://motiongit.com/@adunext/pixel-ocean
+Version: 0.1.0-alpha8
+Demo available; template download coming soon.
+
+Declared runtime profile: native-python-node/1.
+Editable inputs are mapped through the template parameter schema and preset to its existing animation project.
+
+Use this .motion template with my content. Obtain the package from https://motiongit.com/@adunext/pixel-ocean, extract or load it as documented, read the included README and referenced guide, reuse my working environment, and follow the package workflow to show an actual preview.
+
+- [Template documentation](README.md)
+- [Chinese documentation](README.zh-CN.md)
+- [Production reference](ASSISTANT.md)
+- [Format](https://motiongit.com/spec)
