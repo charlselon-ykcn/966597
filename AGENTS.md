@@ -1,5 +1,5 @@
-# MotionGit template 966597
+# Template availability changed
 
-Use this .motion template with my content. Obtain the package from https://motiongit.com/@adunext/pixel-ocean, extract or load it as documented, read the included README and referenced guide, reuse my working environment, and follow the package workflow to show an actual preview.
+This template is currently unavailable as a free public template. Check [MotionGit](https://motiongit.com/@adunext/pixel-ocean) for its current status and license.
 
-Template reference: https://motiongit.com/@adunext/pixel-ocean
+[.motion specification](https://motiongit.com/spec)
